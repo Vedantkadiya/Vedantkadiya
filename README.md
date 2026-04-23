@@ -68,7 +68,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:vedantkadiya24@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
