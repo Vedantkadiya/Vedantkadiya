@@ -46,7 +46,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔗 Check out my best work:  
+  
 
 - 🚀 Full Stack Web App  
 - 📂 File Organizer  
