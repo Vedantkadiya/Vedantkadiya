@@ -1,70 +1,80 @@
-# 👋 Hi, I'm Vedant Kadiya  
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Vedant Kadiya</h1>
+<h3 align="center">💻 Python Developer | 🤖 AI/ML Enthusiast | 🚀 Future Software Engineer</h3>
 
-🎓 3rd Year Computer Engineering Student  
-💻 Aspiring Software Developer | Python & Full Stack Enthusiast  
-🚀 Preparing for placements (FAANG/MNC level)  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Projects;Learning+DSA+Daily;Exploring+AI+%26+ML;Backend+Focused+Developer&center=true&width=500&height=45&color=00BFFF">
+</p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🔭 Currently working on **Python & Full Stack Projects**  
-- 🌱 Learning **Data Structures & Algorithms (DSA)**  
-- 💡 Interested in **Web Development, Automation & Problem Solving**  
+## 🚀 About Me  
+
+- 🎓 3rd Year Computer Engineering Student  
+- 💡 Focused on **Backend Development & Problem Solving**  
+- 🔥 Completed **Python Development Internship (9 Projects)**  
+- 🤖 Exploring **AI & Machine Learning**  
 - 🎯 Goal: Crack top product-based companies  
 
 ---
 
-## 🚀 Internship Experience  
-### Python Development Intern  
-- Completed project-based internship with hands-on experience in Python  
-- Built multiple projects from basic to advanced level  
+## 🧠 What I’m Learning  
 
-#### 🔹 Key Projects:
-- 🧮 Calculator, 🎯 Number Guessing Game, 📝 To-Do List  
-- 🔐 Password Generator  
-- 📂 File Organizer (Automation using Python)  
-- 🌦️ Weather App (API Integration)  
-- 🎓 Student Management System  
-- 🌐 Web Scraper (BeautifulSoup)  
-- 🚀 Full Stack Web App (Flask/Django)  
+- 📊 Data Structures & Algorithms (DSA)  
+- 🤖 Machine Learning Fundamentals  
+- 🌐 Full Stack Development (Django / Flask)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-- Python, C++, Java (Basics)  
-
-**Web Development:**  
-- HTML, CSS, Flask/Django  
-
-**Tools & Technologies:**  
-- Git & GitHub  
-- APIs, File Handling  
-- Web Scraping  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects  
-  
+## 🚀 Featured Projects  
 
-- 🚀 Full Stack Web App  
-- 📂 File Organizer  
-- 🌐 Web Scraper  
+🔹 **Full Stack Web App**  
+- Django/Flask, Authentication, Database Integration  
 
-👉 (Pinned repositories below 👇)
+🔹 **Web Scraper**  
+- Data extraction using BeautifulSoup  
+
+🔹 **File Organizer**  
+- Automation using Python (os, shutil)  
+
+🔹 **Weather App**  
+- Real-time API integration  
+
+👉 *Check pinned repositories below 👇*
 
 ---
 
 ## 📊 GitHub Stats  
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantkadiya&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: www.linkedin.com/in/vedant-kadiya-55196127a 
-- 📧 Email: vedantkadiya24@gmail.com  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-kadiya-55196127a">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 
 ---
 
-⭐ *“Consistency and problem-solving are the keys to cracking top tech companies.”*  
+## ⚡ Mindset  
+
+> “Consistency + Projects + DSA = Placement Success”
